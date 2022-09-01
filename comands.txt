@@ -1,0 +1,26 @@
+ git config --global user.name " "
+ git config --global user.email " "
+ 
+ ==================================================================================
+ ==================================================================================
+ git config -l        nayum es user u email   windows
+ 
+ cat .gitconfig       linux
+ 
+ git init .
+ 
+ git add .
+ 
+ git status
+ 
+ git commit -m ' '
+ 
+ git -log        nayum es sax commitnery
+ 
+ git log u hamarnes grum tenum es et commity isk ete avelacnum es -p tesnum es te inch popoxutyunna arel
+ 
+ git checkout --file name       ete hankarc sxal es baic der git add .  ches arel .senc het es berum
+ 
+ git diff staget         
+ 
+ 
