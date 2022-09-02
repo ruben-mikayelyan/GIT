@@ -24,3 +24,5 @@
  git diff staget         
  
  git token activation for push
+ 
+ go to linux
